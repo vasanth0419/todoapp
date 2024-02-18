@@ -1,0 +1,19 @@
+/* Card.css */
+*{
+    background-color: transparent;
+}
+.card {
+  display: flex;
+  height: 200px;
+  border-radius: 20px;
+  margin: 20px;
+ 
+}
+.dropdown{
+    display: flex;
+    justify-content: end;
+}
+button{
+    padding: 5px;
+    margin: 1px;
+}
